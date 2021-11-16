@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm (SEU NOME)!
+## I'm Claucio!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm a computer scientist currently working ate Accenture
 
-:house_with_garden: I’m from Brazil.
+[![Claucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=clauciof)](https://github.com/anuraghazra/github-readme-stats)
 
-:books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
