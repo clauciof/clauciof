@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 :computer: I'm a computer scientist currently working ate Accenture
 
-[![Claucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=clauciof)](https://github.com/anuraghazra/github-readme-stats)
+[![Claucio's GitHub stats](https://github-readme-stats.vercel.app/api?username=clauciof&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
